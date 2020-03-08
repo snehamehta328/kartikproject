@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myNewProject';
+  // prod = [
+  //   {
+  //     imageUrl: 'assets\\pillow.jpg'
+  //   }
+  // ];
 }
